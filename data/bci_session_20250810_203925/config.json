@@ -1,0 +1,43 @@
+{
+  "eeg_sampling_rate": 1000,
+  "eeg_channels": [
+    "Fp1",
+    "Fp2",
+    "F7",
+    "F3",
+    "Fz",
+    "F4",
+    "F8",
+    "T3",
+    "C3",
+    "Cz",
+    "C4",
+    "T4",
+    "T5",
+    "P3",
+    "Pz",
+    "P4",
+    "T6",
+    "O1",
+    "O2"
+  ],
+  "eeg_buffer_size": 1000,
+  "audio_enabled": true,
+  "audio_sampling_rate": 16000,
+  "audio_channels": 1,
+  "audio_buffer_size": 1600,
+  "video_enabled": true,
+  "video_fps": 30,
+  "video_resolution": [
+    640,
+    480
+  ],
+  "video_buffer_size": 30,
+  "data_directory": "data",
+  "session_name": "bci_session_20250810_203925",
+  "auto_save": true,
+  "save_interval": 10,
+  "min_snr": 5.0,
+  "max_artifact_ratio": 0.3,
+  "data_validation": true
+}

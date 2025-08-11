@@ -1,0 +1,541 @@
+[
+  {
+    "timestamp": 1754847566.0279126,
+    "eeg_snr": -0.3933534553693646,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10542701209036542,
+    "video_brightness": 127.46199869791667,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0305114,
+    "eeg_snr": 0.16793152916506104,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10721615470890704,
+    "video_brightness": 127.37916341145834,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.031686,
+    "eeg_snr": -0.8299518191264749,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1073972060379652,
+    "video_brightness": 127.45287434895833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0328763,
+    "eeg_snr": 0.6952026319414011,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10995540283299585,
+    "video_brightness": 127.605576171875,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0347598,
+    "eeg_snr": 0.3253245942415617,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10348081133733715,
+    "video_brightness": 127.56708658854167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0359643,
+    "eeg_snr": -0.4940487644616489,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10576954668162332,
+    "video_brightness": 127.4349609375,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.03736,
+    "eeg_snr": 0.533620559976435,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10428820385299246,
+    "video_brightness": 127.52547526041667,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0385482,
+    "eeg_snr": -1.0425239050230983,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10815693658330472,
+    "video_brightness": 127.44739583333333,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0398202,
+    "eeg_snr": -1.4266139395974797,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10550896890338228,
+    "video_brightness": 127.414453125,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0410101,
+    "eeg_snr": 1.2515414814927452,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1064538704508671,
+    "video_brightness": 127.55194010416666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0423195,
+    "eeg_snr": -1.947208683413303,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10496883928051602,
+    "video_brightness": 127.46949869791666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0438745,
+    "eeg_snr": 0.47437316088455633,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10687439204352132,
+    "video_brightness": 127.46551106770833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0450444,
+    "eeg_snr": -0.35659879602843714,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1066346577243053,
+    "video_brightness": 127.72902018229166,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.0627375,
+    "eeg_snr": 2.8957390664041744,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10722687714964249,
+    "video_brightness": 127.17913411458333,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.168902,
+    "eeg_snr": 0.20310670633604594,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1062538930250945,
+    "video_brightness": 127.40694986979166,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.2747858,
+    "eeg_snr": 1.1652422464892682,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10668101327942486,
+    "video_brightness": 127.45791666666666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.376804,
+    "eeg_snr": 0.3506238663684002,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10638313442139866,
+    "video_brightness": 127.74873372395834,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.4732027,
+    "eeg_snr": -0.6797852514138452,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10754018742353695,
+    "video_brightness": 127.48490885416666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.573522,
+    "eeg_snr": 0.414490026553089,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10711807112499398,
+    "video_brightness": 127.51998697916666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.6787934,
+    "eeg_snr": -0.5580139233310863,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1076156352312743,
+    "video_brightness": 127.37437174479167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.7806032,
+    "eeg_snr": -0.6533150509906764,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10477619201880363,
+    "video_brightness": 127.43761393229167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.8727446,
+    "eeg_snr": -0.1295193133606706,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10669186506867172,
+    "video_brightness": 127.67138346354167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847566.9759855,
+    "eeg_snr": -1.3575708634620587,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10487193223085754,
+    "video_brightness": 127.27682291666666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.0796232,
+    "eeg_snr": -0.5919028605429736,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10804505186202885,
+    "video_brightness": 127.43879557291666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.1726136,
+    "eeg_snr": -0.3086514275917574,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10230323011742296,
+    "video_brightness": 127.37482096354167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.2736716,
+    "eeg_snr": -0.28645118693903193,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10613269128545583,
+    "video_brightness": 127.40747721354167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.3784554,
+    "eeg_snr": 1.0063968096914793,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1059765518661385,
+    "video_brightness": 127.394580078125,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.480132,
+    "eeg_snr": -0.5728915168966429,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10351064262543104,
+    "video_brightness": 127.41164388020833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.5797768,
+    "eeg_snr": -0.982437613577785,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10668333547326078,
+    "video_brightness": 127.25746419270833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.6834095,
+    "eeg_snr": 1.4150790733506144,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10650111204438432,
+    "video_brightness": 127.39322916666667,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.7958388,
+    "eeg_snr": -0.963354243488405,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10292751438871475,
+    "video_brightness": 127.49441731770834,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.9004185,
+    "eeg_snr": 0.6657664853478331,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10386030449628436,
+    "video_brightness": 127.617529296875,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847567.99894,
+    "eeg_snr": -0.6767845878680572,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10429146744835072,
+    "video_brightness": 127.480537109375,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.1029909,
+    "eeg_snr": -0.21641641382507434,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.1059923619649132,
+    "video_brightness": 127.38575846354166,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.2122748,
+    "eeg_snr": 1.5144164941217104,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10686424716261105,
+    "video_brightness": 127.33803059895833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.3156114,
+    "eeg_snr": -1.5522851258413857,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10241691245444591,
+    "video_brightness": 127.53672200520833,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.4146051,
+    "eeg_snr": -0.6801683932251839,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10849226509607421,
+    "video_brightness": 127.3659375,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.5230868,
+    "eeg_snr": -1.6016573491348998,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10557493709557851,
+    "video_brightness": 127.66940104166666,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.6266544,
+    "eeg_snr": -0.9646974029175395,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10820513906258619,
+    "video_brightness": 127.65476888020834,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.7267125,
+    "eeg_snr": -0.6954903811736752,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10734576720353411,
+    "video_brightness": 127.32110677083334,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.829347,
+    "eeg_snr": -0.44983535596189955,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10883887426742647,
+    "video_brightness": 127.40611328125,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847568.927461,
+    "eeg_snr": 0.4081420874294483,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10547340393938397,
+    "video_brightness": 127.48030924479167,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.0252233,
+    "eeg_snr": 1.426633923818597,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10799009605673687,
+    "video_brightness": 127.48331380208333,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.1219862,
+    "eeg_snr": 0.23450650712402268,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10567661528138128,
+    "video_brightness": 127.3639453125,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.222942,
+    "eeg_snr": 0.07810634916386389,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10549709384871166,
+    "video_brightness": 127.38393880208334,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.3291373,
+    "eeg_snr": -1.047849951354637,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10238657291690212,
+    "video_brightness": 127.497275390625,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.427188,
+    "eeg_snr": 2.2254601648757504,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10516430380624267,
+    "video_brightness": 127.511064453125,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.525647,
+    "eeg_snr": 0.5898515155227659,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10276900645401385,
+    "video_brightness": 127.57979166666667,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  },
+  {
+    "timestamp": 1754847569.621542,
+    "eeg_snr": 0.3443255172769988,
+    "eeg_artifact_ratio": 0.0,
+    "audio_level": 0.10444710940317155,
+    "video_brightness": 127.4834765625,
+    "overall_quality": "poor",
+    "recommendations": [
+      "Increase EEG signal strength or reduce noise"
+    ]
+  }
+]
